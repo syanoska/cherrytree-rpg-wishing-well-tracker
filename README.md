@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository showcases a highly popular and community-adopted Google Sheets-based tracker designed for players of the mobile idle RPG, "CherryTree - Text RPG." The tracker utilizes advanced spreadsheet formulas to help players efficiently monitor their progress with the in-game Wishing Well feature, optimize their strategy for obtaining permanent stat buffs, and track their journey to maximize this valuable game mechanic. This tool prioritizes ease of use through thoughtful design and robust error handling.
+This repository showcases a highly popular and community-adopted Google Sheets-based tracker designed for players of the mobile idle RPG, "CherryTree - Text RPG." The tracker utilizes advanced spreadsheet formulas to help players efficiently monitor their progress with the in-game Wishing Well feature, allowing them to see the progression of their stat buffs, and track their journey to maximize this valuable game mechanic. This tool prioritizes ease of use through thoughtful design and robust error handling.
 
 ## Problem Solved
 
