@@ -58,7 +58,7 @@ This Wishing Well Tracker has benefited the CherryTree RPG community by:
 ## Getting Started / How to Use
 
 1.  **Access the Tracker:**
-    * This project is implemented as a Google Sheet. While the file isn't directly hosted here on GitHub, you can [**access a view-only version of the anonymized tracker here**](LINK_TO_VIEW_ONLY_GOOGLE_SHEET_WITH_DUMMY_DATA).
+    * This project is implemented as a Google Sheet. While the file isn't directly hosted here on GitHub, you can [**access a view-only version of the anonymized tracker here**](https://docs.google.com/spreadsheets/d/14fGfRreVQuNTgtXgr0AQj_XOSECVR_WWsg6rr8ljMXM/edit?usp=sharing).
 2.  **Make a Copy:** To use the tracker yourself, simply open the link above and go to `File > Make a copy` to create your own editable version in your Google Drive.
 3.  **Input Your Data:** Navigate to the designated input cells in **Column E** (specifically cells E5 through E23). Enter your current levels for each reward.
 4.  **View Progress & Insights:** The tracker will automatically update to show your current Wishing Well progress, next buff milestones, and optimal gold contribution strategy. The troubleshooting column will dynamically appear if invalid input is detected.
